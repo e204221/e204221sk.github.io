@@ -1,0 +1,16 @@
+h1{
+    color: #ff15ff;
+    font-size: 60px;
+    font-weight: normal;
+    font-family: impact;
+    text-align: center;
+    background-color: #00ffff;
+}
+
+p{
+    background-color: aquamarine;
+}
+
+body{
+    background-image: url(../images/back4.jpg);
+}
