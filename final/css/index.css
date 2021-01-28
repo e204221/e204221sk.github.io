@@ -1,0 +1,41 @@
+div.title{
+    width: 1000px;
+    height: 50px;
+    background-color: aqua;
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 40px;
+}
+
+span.item{
+    display: inline-block;
+    vertical-align: top;
+    width: 300px;
+    height: 200px;
+    background-color: deeppink;
+    margin-right: 25px;
+    font-size: 50px;
+    text-align:center;
+}
+
+div.{
+    font-size: 0px;
+}
+
+div.footer{
+    width: 1000px;
+    height: 40px;
+    background-color: coral;
+    margin-top: 20px;
+    text-align: right;
+}
+div.wrap{
+    width: 1000px;
+    margin: 0px auto;
+}
+
+body{
+    background-image: url(../images/01.jpg);
+    background-attachment: fixed;
+}
+
